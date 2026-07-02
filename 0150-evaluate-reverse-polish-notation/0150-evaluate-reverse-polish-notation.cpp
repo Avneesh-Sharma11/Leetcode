@@ -9,11 +9,8 @@ public:
             return a - b;
         else if (op == '*')
             return a * b;
-        else if (op == '/') {
-            if (b == 0)
-                return -1;
+        else if (op == '/')
             return a / b;
-        }
 
         return 0;
     }
