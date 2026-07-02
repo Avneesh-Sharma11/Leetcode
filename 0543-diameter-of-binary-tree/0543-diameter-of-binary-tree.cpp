@@ -11,45 +11,19 @@
  * };
  */
 class Solution {
-    private:
-        int height(TreeNode* root) {
-            if (root == NULL) {
-                return 0;
-            }
-            int left = height(root->left);
-            int right = height(root->right);
-
-            int ans = max(left, right) + 1;
-            return ans;
-        }
-
 public:
-    
-    pair<int, int> diameterOfBinaryTreefast(TreeNode* root) {
-        if (root == NULL) {
-            pair<int, int> p = make_pair(0, 0);
-            return p;
-        }
-        pair<int, int> left = diameterOfBinaryTreefast(root->left);
-        pair<int, int> right = diameterOfBinaryTreefast(root->right);
-        int op1 = left.first;
-        int op2 = right.first;
-        int op3 = left.second + right.second ;
+    int ans = INT_MIN;
+    int check(TreeNode* root) {
+        if (root == NULL)
+            return 0;
 
-        pair<int, int> ans;
-        ans.first = max(op1, max(op2, op3));
-        ans.second = max(left.second, right.second)+1;
-        return ans;
+        int lh = check(root->left);
+        int rh = check(root->right);
+        ans = max(ans, lh + rh);
+        return max(lh, rh) + 1;
     }
     int diameterOfBinaryTree(TreeNode* root) {
-        return diameterOfBinaryTreefast(root).first;
-        // if (root == NULL) {
-        //     return 0;
-        // }
-        // int op1 = diameterOfBinaryTree(root->left);
-        // int op2 = diameterOfBinaryTree(root->right);
-        // int op3 = height(root->left) + height(root->right);
-        // int ans = max(op1, max(op2, op3));
-        // return ans;
+        check(root);
+        return ans;
     }
 };
