@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0560-subarray-sum-equals-k](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1288-remove-covered-intervals](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/1288-remove-covered-intervals) |
 ## Math
 |  |
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/1288-remove-covered-intervals) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
