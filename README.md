@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0560-subarray-sum-equals-k](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1288-remove-covered-intervals](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
