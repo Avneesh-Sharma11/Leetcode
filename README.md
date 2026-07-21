@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Sorting
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
