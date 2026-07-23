@@ -20,9 +20,7 @@ public:
         bool l = isSameTree(p->left, q->left);
         bool r = isSameTree(p->right, q->right);
         bool value = p->val == q->val;
-
-        if(l && r && value)return true;
         
-        return false;    
+        return l && r && value;    
     }
 };
