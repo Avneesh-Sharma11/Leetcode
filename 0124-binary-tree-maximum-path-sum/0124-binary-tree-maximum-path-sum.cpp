@@ -18,6 +18,7 @@ public:
 
         int left = dfs(root->left);
         int right = dfs(root->right);
+        
         if (left < 0) left = 0;
         if (right < 0) right = 0;
 
